@@ -5,4 +5,4 @@ Machine Learning Regression using SVR
 
 X is float
 Y is float
-Output in int
+Output is int
